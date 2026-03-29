@@ -10,8 +10,4 @@ It shows whether a device is ONLINE or OFFLINE and optionally displays the hostn
 - Show hostname of active devices
 - Easy to use console-based application
 
-## How to Run
-1. Open terminal in the project folder.
-2. Compile the code:
-```bash
-javac NetworkScanner.java
+
